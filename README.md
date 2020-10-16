@@ -1,4 +1,4 @@
 # docs-helper
 Helping explanations
 
-[README_GITHUB_PACKAGE.md](Github paket hur)
+[Github paket hur](README_GITHUB_PACKAGE.md)
